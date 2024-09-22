@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@helia/core": "^0.0.0",
+    "@helia/unixfs": "^3.0.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^4.21.0",
+    "helia": "^4.2.6",
+    "ipfs-http-client": "^60.0.1"
+  }
+}
